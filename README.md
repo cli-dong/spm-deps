@@ -10,23 +10,23 @@
 
 ## usage
 
-  ```bash
-  $ npm install spm-deps
-  ```
+```bash
+$ npm install spm-deps
+```
 
-  ```js
-  var deps = require('spm-deps');
-  
-  // get dependencies tree
-  var depsTree = deps({
-    // if need
-    idleading: 'static'
-  });
-  
-  // get devDependencies tree
-  var devDepsTree = deps({
-    dev: true,
-    // if need
-    idleading: 'static'
-  });
-  ```
+```js
+var deps = require('spm-deps');
+
+// get dependencies tree
+var depsTree = deps({
+  // if need
+  idleading: 'static'
+});
+
+// get devDependencies tree
+var devDepsTree = deps({
+  dev: true,
+  // if need
+  idleading: 'static'
+});
+```
