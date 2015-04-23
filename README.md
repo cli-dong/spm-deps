@@ -1,4 +1,4 @@
-# spm-deps
+# Deprecated. Use [dong-deps](https://github.com/crossjs/dong-deps) instead.
 
 [![NPM version](https://img.shields.io/npm/v/spm-deps.svg?style=flat-square)](https://npmjs.org/package/spm-deps)
 [![Build Status](https://img.shields.io/travis/crossjs/spm-deps.svg?style=flat-square)](https://travis-ci.org/crossjs/spm-deps)
